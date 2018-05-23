@@ -1,2 +1,3 @@
-# bowie-tribute-page
-A Bowie Tribute Page
+A Free Code Camp Project
+
+Tribute Site on David Bowie
